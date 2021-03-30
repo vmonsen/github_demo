@@ -23,8 +23,6 @@ def main():
      what the temperature is in C and F and finally print the average for each temperature.
     """
 
-txt_message.value = avg_temp
-
 
 
     def get_temperature():
